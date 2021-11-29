@@ -1,0 +1,23 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.4.RELEASE)
+
+2021-10-25 12:11:10.807  INFO 12473 --- [           main] com.mkyong.StartApplication              : Starting StartApplication v1.0 on Sagacious with PID 12473 (/home/snigdha/mavenpractice/target/spring-boot-web.jar started by root in /home/snigdha/mavenpractice)
+2021-10-25 12:11:10.817  INFO 12473 --- [           main] com.mkyong.StartApplication              : No active profile set, falling back to default profiles: default
+2021-10-25 12:11:12.425  INFO 12473 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1234 (http)
+2021-10-25 12:11:12.444  INFO 12473 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-10-25 12:11:12.445  INFO 12473 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2021-10-25 12:11:12.538  INFO 12473 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-25 12:11:12.538  INFO 12473 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1639 ms
+2021-10-25 12:11:12.807  INFO 12473 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-25 12:11:12.904  INFO 12473 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-10-25 12:11:13.065  INFO 12473 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1234 (http) with context path ''
+2021-10-25 12:11:13.071  INFO 12473 --- [           main] com.mkyong.StartApplication              : Started StartApplication in 3.061 seconds (JVM running for 3.837)
+2021-10-25 12:13:36.005  INFO 12473 --- [nio-1234-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-25 12:13:36.005  INFO 12473 --- [nio-1234-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-10-25 12:13:36.018  INFO 12473 --- [nio-1234-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
